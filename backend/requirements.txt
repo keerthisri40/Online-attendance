@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+gunicorn
+numpy
+torch
+facenet-pytorch
+scikit-learn
+psycopg2-binary
+Pillow
